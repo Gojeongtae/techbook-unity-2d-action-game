@@ -2379,12 +2379,12 @@ PrefabInstance:
     - target: {fileID: 6820004337984533896, guid: 0685b67e501acc44bbc45360fd793738,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 73.33
+      value: 0.12
       objectReference: {fileID: 0}
     - target: {fileID: 6820004337984533896, guid: 0685b67e501acc44bbc45360fd793738,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.36
+      value: 0.01
       objectReference: {fileID: 0}
     - target: {fileID: 6820004337984582398, guid: 0685b67e501acc44bbc45360fd793738,
         type: 3}
@@ -2394,7 +2394,7 @@ PrefabInstance:
     - target: {fileID: 6820004337984582398, guid: 0685b67e501acc44bbc45360fd793738,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -10.35
+      value: 0.55
       objectReference: {fileID: 0}
     - target: {fileID: 6820004337984582398, guid: 0685b67e501acc44bbc45360fd793738,
         type: 3}
@@ -16012,12 +16012,12 @@ PrefabInstance:
     - target: {fileID: 2364554877030441226, guid: 0bea75157e8c6f6469212aeea337fc93,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -141
+      value: -66.5
       objectReference: {fileID: 0}
     - target: {fileID: 2364554877030441226, guid: 0bea75157e8c6f6469212aeea337fc93,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.7
+      value: 2.7
       objectReference: {fileID: 0}
     - target: {fileID: 2364554877030441226, guid: 0bea75157e8c6f6469212aeea337fc93,
         type: 3}
@@ -16072,7 +16072,7 @@ PrefabInstance:
     - target: {fileID: 2364554877030441237, guid: 0bea75157e8c6f6469212aeea337fc93,
         type: 3}
       propertyPath: orthographic size
-      value: 17.8
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 2364554877030441237, guid: 0bea75157e8c6f6469212aeea337fc93,
         type: 3}
@@ -16082,7 +16082,7 @@ PrefabInstance:
     - target: {fileID: 2364554877030441237, guid: 0bea75157e8c6f6469212aeea337fc93,
         type: 3}
       propertyPath: m_NormalizedViewPortRect.width
-      value: 1
+      value: 0.75
       objectReference: {fileID: 0}
     - target: {fileID: 2364554877030441237, guid: 0bea75157e8c6f6469212aeea337fc93,
         type: 3}
